@@ -116,15 +116,15 @@
      inkscape:connector-curvature="0"
      id="rect26"
      d="m 9,4 h 22 c 3.878,0 7,3.122 7,7 0,3.878 -3.122,7 -7,7 H 9 C 5.122,18 1.9999998,14.878 1.9999998,11 1.9999998,7.122 5.122,4 9,4 Z"
-     style="opacity:0.5;fill:#faa41a;stroke-width:10" />
+     style="opacity:0.5;fill:#D03117;stroke-width:10" />
   <circle
-     style="opacity:1;fill:#faa41a;stroke-width:10"
+     style="opacity:1;fill:#D03117;stroke-width:10"
      id="path24"
      cx="28.006447"
      cy="10.999999"
      r="10" />
   <rect
-     style="opacity:0.5;fill:#faa41a;fill-opacity:0;stroke-width:10"
+     style="opacity:0.5;fill:#D03117;fill-opacity:0;stroke-width:10"
      id="rect13"
      width="40"
      height="24"
